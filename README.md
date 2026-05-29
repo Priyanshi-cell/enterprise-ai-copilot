@@ -294,4 +294,4 @@ Final Year AI/ML Engineer
 
 GitHub: https://github.com/Priyanshi-cell
 
-LinkedIn: Add your LinkedIn profile here.
+LinkedIn: https://www.linkedin.com/in/priyanshi-kumrawat2265/
